@@ -4,4 +4,10 @@ Type "copyright", "credits" or "license()" for more information.
 >>> height = 5 * 9
 >>> width * height
 900
->>> 
+>>> n
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in <module>
+    n
+NameError: name 'n' is not defined
+>>> n
+
