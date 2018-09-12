@@ -133,4 +133,7 @@ NameError: name 'lintang' is not defined
 >>> l ='lintang'
 >>> len(l)
 7
+>>> s ='suci'
+>>> len(s)
+4
 >>> 
