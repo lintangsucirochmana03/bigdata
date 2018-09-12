@@ -20,4 +20,6 @@ Type "copyright", "credits" or "license()" for more information.
 25
 >>> 2 ** 7 #2 to the power of 7
 128
+>>> 2+2
+4
 >>> 
