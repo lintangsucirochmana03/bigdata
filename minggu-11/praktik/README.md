@@ -54,3 +54,30 @@
 	2	Amridge University	Montgomery	AL	0.0	0.0	0.0	1	NaN	NaN	1.0	291.0	0.2990	0.4192	0.0069	0.0034	0.0000	0.0000	0.0000	0.0000	0.2715	0.4536	1	0.6801	0.7795	0.8540	40100	23370
 	3	University of Alabama in Huntsville	Huntsville	AL	0.0	0.0	0.0	0	595.0	590.0	0.0	5451.0	0.6988	0.1255	0.0382	0.0376	0.0143	0.0002	0.0172	0.0332	0.0350	0.2146	1	0.3072	0.4596	0.2640	45500	24097
 	4	Alabama State University	Montgomery	AL	1.0	0.0	0.0	0	425.0	430.0	0.0	4811.0	0.0158	0.9208	0.0121	0.0019	0.0010	0.0006	0.0098	0.0243	0.0137	0.0892	1	0.7347	0.7554	0.1270	26600	33118.5
+
+
+###Install package pandas-datareader
+conda install -c anaconda pandas-datareader, package yang diinstall adalah :
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    cffi-1.11.5                |   py36h74b6da3_1         201 KB  anaconda
+    pyopenssl-18.0.0           |           py36_0          83 KB  anaconda
+    win_inet_pton-1.0.1        |           py36_1           6 KB  anaconda
+    pandas-datareader-0.7.0    |           py36_0         142 KB  anaconda
+    pysocks-1.6.8              |           py36_0          23 KB  anaconda
+    idna-2.7                   |           py36_0         132 KB  anaconda
+    chardet-3.0.4              |           py36_1         209 KB  anaconda
+    cryptography-2.4.1         |   py36h7a1dbc1_0         493 KB  anaconda
+    urllib3-1.23               |           py36_0         153 KB  anaconda
+    asn1crypto-0.24.0          |           py36_0         155 KB  anaconda
+    libiconv-1.15              |       hc4a7105_7         654 KB  anaconda
+    libxslt-1.1.32             |       hf6f1972_0         338 KB  anaconda
+    requests-2.20.1            |           py36_0          85 KB  anaconda
+    libxml2-2.9.8              |       hadb2253_1         2.2 MB  anaconda
+    lxml-4.2.5                 |   py36hef2cd61_0         938 KB  anaconda
+    pycparser-2.19             |           py36_0         174 KB  anaconda
+    wrapt-1.10.11              |   py36hfa6e2cd_2          42 KB  anaconda
+    ------------------------------------------------------------
+                                           Total:         6.0 MB
