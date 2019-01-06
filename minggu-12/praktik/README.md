@@ -1,10 +1,10 @@
-#minggu12
+# minggu12
 
-###Menjalankan jupyter notebook pada bab 4, 5, 6, dan 7 :
-####1. Chapter 04 Selecting Subsets of Data.ipynb
-####2. Chapter 05 Boolean Indexing.ipynb
-####3. Chapter 06 Index Alignment.ipynb
-####4. Chapter 07 Grouping for Aggregation, Filtration and Transformation.ipynb
+### Menjalankan jupyter notebook pada bab 4, 5, 6, dan 7 :
+#### 1. Chapter 04 Selecting Subsets of Data.ipynb
+#### 2. Chapter 05 Boolean Indexing.ipynb
+#### 3. Chapter 06 Index Alignment.ipynb
+#### 4. Chapter 07 Grouping for Aggregation, Filtration and Transformation.ipynb
 
 ###Mengerjakan source code pada bab - bab tersebut:
 ####1. Chapter 04 Selecting Subsets of Data.ipynb, terdapat beberapa sub bab didalamnya :
