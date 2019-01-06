@@ -1,6 +1,6 @@
-#minggu-11
+# minggu-11
 
-#Melakukan Clone repo Pandas Cookbook di direktori Pandas-Cookbook
+# Melakukan Clone repo Pandas Cookbook di direktori Pandas-Cookbook
 
 	lenovo@user MINGW64 /d/Pandas-Cookbook
 	$ git clone https://github.com/PacktPublishing/Pandas-Cookbook.git
@@ -12,9 +12,9 @@
 	Checking connectivity... done.
 	Checking out files: 100% (70/70), done.
 
-#Melakukan Copy notebook Jupyter untuk bab 3 di direktori praktik pada folder minggu-11
+# Melakukan Copy notebook Jupyter untuk bab 3 di direktori praktik pada folder minggu-11
 
-#Menjalankan notebook Jupyter untuk bab 3 :
+# Menjalankan notebook Jupyter untuk bab 3 :
 
 	(base) C:\Users\lenovo>D:
 	(base) D:\>cd databigdataku
