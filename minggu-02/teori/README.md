@@ -1,17 +1,12 @@
 # minggu 2
 
-### Tugas utama Data Engineer : Data Warehouse 
-##### Data Warehouse Adalah gudang data
-##### Data Engineer adalah merancang, membangun yang terpenting bagaimanan cara mendapatkan data
-##### Data Pipeline : proses extract -> transfom -> load
-##### Skema Tabel :
-######  - UnNormalize
-######   - Normalisasi 1
-######   - Normalisasi 2
-##### Data Modeling : Perancangan agar semua data bisa mudah diquery
-###### Data ada 2 yaitu data facta dan data dimensi
-###### Data Fakta : Transaksi
-###### Data Dimensi : Entitas yang bukan merupakan transaksi.
+## Data Enginer dan Data Scientis
+
+### Data Enginer = menangani data yang masih mentah seperti melakukan proses cleaning, memastikan konsistensi data, melakukan proses transformasi, data yang didapatkan apakah sudah komplit atau belum dan kolomnya apakah sudah sesuar atau belum. 
+### Tools yang digunakan : Ecxel, Apache Spark, Redshift.
+### Data Scientis = Mengolah lebih lanjut data yang telah dikumpulkan oleh data engineer, seperti memastikan bahwa kondisi data baik dan sesuai untuk dianalisis, disini melakukan eksperimen dengan menggunakan teknik atau algoritma tertentu 
+### Tools yang digunakan : MATLAB, SPSS, Hadoop.
+
 
 
 
