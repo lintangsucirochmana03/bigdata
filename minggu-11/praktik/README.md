@@ -1,6 +1,6 @@
-#minggu-11
+# minggu-11
 
-#Melakukan Clone repo Pandas Cookbook di direktori Pandas-Cookbook
+# Melakukan Clone repo Pandas Cookbook di direktori Pandas-Cookbook
 
 	lenovo@user MINGW64 /d/Pandas-Cookbook
 	$ git clone https://github.com/PacktPublishing/Pandas-Cookbook.git
@@ -12,9 +12,9 @@
 	Checking connectivity... done.
 	Checking out files: 100% (70/70), done.
 
-#Melakukan Copy notebook Jupyter untuk bab 3 di direktori praktik pada folder minggu-11
+# Melakukan Copy notebook Jupyter untuk bab 3 di direktori praktik pada folder minggu-11
 
-#Menjalankan notebook Jupyter untuk bab 3 :
+# Menjalankan notebook Jupyter untuk bab 3 :
 
 	(base) C:\Users\lenovo>D:
 	(base) D:\>cd databigdataku
@@ -34,8 +34,8 @@
 	 kernels (twice to skip confirmation).
 	[C 22:27:01.891 NotebookApp]
 
-#Mengerjakan berbagai source code yang ada di notebook Jupyter pada bab 3 di direktori praktik dan setiap satu source code menempati 1 file python: (Sebelum membuat skrip program meng-cpykan terlebuh dahulu folder data dari clone Pandas-Cookbook)
-###1. Untitled.ipynb
+# Mengerjakan berbagai source code yang ada di notebook Jupyter pada bab 3 di direktori praktik dan setiap satu source code menempati 1 file python: (Sebelum membuat skrip program meng-cpykan terlebuh dahulu folder data dari clone Pandas-Cookbook)
+### 1. Untitled.ipynb
 
 	import pandas as pd
 	import numpy as np
@@ -46,7 +46,7 @@
 
 	college.head()
 
-###Output:
+### Output:
 
 	INSTNM	CITY	STABBR	HBCU	MENONLY	WOMENONLY	RELAFFIL	SATVRMID	SATMTMID	DISTANCEONLY	UGDS	UGDS_WHITE	UGDS_BLACK	UGDS_HISP	UGDS_ASIAN	UGDS_AIAN	UGDS_NHPI	UGDS_2MOR	UGDS_NRA	UGDS_UNKN	PPTUG_EF	CURROPER	PCTPELL	PCTFLOAN	UG25ABV	MD_EARN_WNE_P10	GRAD_DEBT_MDN_SUPP
 	0	Alabama A & M University	Normal	AL	1.0	0.0	0.0	0	424.0	420.0	0.0	4206.0	0.0333	0.9353	0.0055	0.0019	0.0024	0.0019	0.0000	0.0059	0.0138	0.0656	1	0.7356	0.8284	0.1049	30300	33888
@@ -56,8 +56,8 @@
 	4	Alabama State University	Montgomery	AL	1.0	0.0	0.0	0	425.0	430.0	0.0	4811.0	0.0158	0.9208	0.0121	0.0019	0.0010	0.0006	0.0098	0.0243	0.0137	0.0892	1	0.7347	0.7554	0.1270	26600	33118.5
 
 
-###Install package pandas-datareader
-conda install -c anaconda pandas-datareader, package yang diinstall adalah :
+### Install package pandas-datareader
+#### conda install -c anaconda pandas-datareader, package yang diinstall adalah :
 The following packages will be downloaded:
 
     package                    |            build
